@@ -1,7 +1,6 @@
 ## Bankist App - A fictional Bank
 
-### Take a look
-![Bankist App - Desktop Preview] (desktop-preview.png)
+![Bankist App - Desktop Preview](https://github.com/aatifsohel/project-bankist-app/blob/main/desktop-preview.png)
 
 
 ### Try Our App 
